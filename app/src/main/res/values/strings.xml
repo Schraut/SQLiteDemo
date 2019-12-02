@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+    <string name="text_change">Something should have happened!</string>
+    <string name="top_title">Add Recipe</string>
+</resources>
